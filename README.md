@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MeoNax
-- 👀 I’m interested in coding, graphics, physics. 
+- 👋 Hi, I’m @MeoNax my real name is Jacob. 
+- 👀 I’m interested in coding, neurology, physics. 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ... ( not sure yet ).
 - 📫 How to reach me ? Ask me in private ;)
