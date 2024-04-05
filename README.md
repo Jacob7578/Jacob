@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MeoNax my real name is Jacob. 
+- 👋 Hi, I’m @MeoNax. 
 - 👀 I’m interested in coding, neurology, physics. 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ... ( not sure yet ).
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on any project in this language . 
 - 📫 How to reach me ? Ask me in private ;)
 
 <!---
